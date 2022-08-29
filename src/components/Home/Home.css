@@ -1,0 +1,45 @@
+#contact {
+  border-radius: 10px;
+  background-color: rgb(211, 207, 207);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 86vh;
+}
+
+.form {
+  width: 70%;
+  height: 80%;
+  background-color: rgba(255, 255, 255, 0.315);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.form-1 {
+  width: 90%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px;
+  margin-left: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 
+  'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+#comments {
+  border-radius: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 
+  'Trebuchet MS', sans-serif;
+  padding: 5PX;
+  font-size: 20px;
+  border: white;
+  box-shadow: 5px 5px 10px;
+}
